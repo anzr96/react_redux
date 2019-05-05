@@ -1,9 +1,9 @@
-import Dashboard from "views/Dashboard/Dashboard";
+// import Dashboard from "views/Dashboard/Dashboard";
 import UserProfile from "views/UserProfile/UserProfile";
-import TableList from "views/TableList/TableList";
-import Icons from "views/Icons/Icons";
-import Notifications from "views/Notifications/Notifications";
-import Upgrade from "views/Upgrade/Upgrade";
+// import TableList from "views/TableList/TableList";
+// import Icons from "views/Icons/Icons";
+// import Notifications from "views/Notifications/Notifications";
+// import Upgrade from "views/Upgrade/Upgrade";
 import Turntable from "views/Turntables/Turntable";
 import Booking from "views/Booking/Booking";
 import DoctorVisits from "views/DoctorVisits/DoctorVisits";

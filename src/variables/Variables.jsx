@@ -587,12 +587,12 @@ var tdUserArray = [
     ["1398/02/02 12:00", "Mojtaba Zare", "General"]
 ];
 var thPresArray = [
-    'Date', 'User', 'Prescription'
+    'Date', 'User', 'Doctor', 'Prescription'
 ];
 var tdPresArray = [
-    ["1398/01/18 10:30", "Amir Maleki", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."],
-    ["1398/01/22 9:15", "Reza Moosaii", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."],
-    ["1398/02/02 12:00", "Mojtaba Yeganeh", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."]
+    ["1398/01/18 10:30", "Amir Maleki", "Morteza Maadi", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."],
+    ["1398/01/22 9:15", "Reza Moosaii", "Hasan Khademi", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."],
+    ["1398/02/02 12:00", "Mojtaba Yeganeh", "Ghanbar Ghanami", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."]
 ];
 
 module.exports = {
