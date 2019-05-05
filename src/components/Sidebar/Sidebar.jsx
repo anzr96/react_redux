@@ -51,10 +51,10 @@ class Sidebar extends Component {
                         </div>
                     </a>
                     <a
-                        href="https://www.creative-tim.com"
+                        href="/"
                         className="simple-text logo-normal"
                     >
-                        آبی دلان
+                        Blue Heart
                     </a>
                 </div>
                 <div className="sidebar-wrapper">
